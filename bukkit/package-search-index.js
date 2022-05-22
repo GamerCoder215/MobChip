@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.gamercoder215.mobchip.bukkit"},{"l":"me.gamercoder215.mobchip.bukkit.events"},{"l":"me.gamercoder215.mobchip.bukkit.events.memory"},{"l":"me.gamercoder215.mobchip.bukkit.events.pathfinder"}];updateSearchResults();
